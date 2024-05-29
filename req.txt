@@ -1,0 +1,8 @@
+telethon 
+schedule 
+colorama 
+tqdm 
+pyfiglet 
+rich 
+bullet 
+keyring
